@@ -1,3 +1,15 @@
+"""
+    Tem-se um conjunto de dados
+    contendo a altura e o sexo (masculino,
+    feminino) de 50 pessoas. Fazer um
+    algoritmo que calcule e escreva:
+        • - a maior e a menor altura do grupo;
+        • - a média de altura das mulheres;
+        • - o número de homens;
+        • -A porcentagem de homens e de
+    mulheres.
+"""
+
 
 def maior(lst):
     mai = 0
